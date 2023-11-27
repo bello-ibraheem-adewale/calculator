@@ -95,14 +95,14 @@ button{
     .div1{
         display: none;
         width: 100vw;
-        margin-left: 15px;
+        margin-left: 20px;
 
     }
 
     .container{
         position: fixed;
         top: 0;
-        left: 15px;
+        left: 20px;
         align-items: center;
         margin-top: 50px;
         transform: translateX(0);
@@ -126,14 +126,14 @@ button{
         .div1{
             display: none;
             width: 100vw;
-            margin-left: 15px;
+            margin-left: 20px;
     
         }
     
         .container{
             position: fixed;
             top: 0;
-            left: 15px;
+            left: 20px;
             overflow-y: scroll;
             align-items: center;
             margin-top: 50px;
@@ -156,7 +156,7 @@ button{
             .div1{
                 display: none;
                 width: 30vw;
-                margin-left: 15px;
+                margin-left: 20px;
         
             }
         
@@ -194,7 +194,7 @@ button{
                 .container{
                     position: fixed;
                     top: 0;
-                    left: 15px;
+                    left: 20px;
                     align-items: center;
                     margin-top: 50px;
                     transform: translateX(0);
